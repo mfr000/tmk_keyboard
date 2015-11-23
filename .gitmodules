@@ -1,0 +1,3 @@
+[submodule "tmk_core/tool/chibios/chibios"]
+	path = tmk_core/tool/chibios/chibios
+	url = https://github.com/ChibiOS/ChibiOS.git
